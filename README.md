@@ -8,7 +8,7 @@ Implemented End-points: login,register
 
 ```bash
 $ npm install
-$ npm run start-auth
+node server.js
 ```
 
 Might need to run
